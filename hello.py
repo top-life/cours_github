@@ -1,1 +1,5 @@
-print(f"salut tout le monde.")
+def hello():
+    print("Hello à tous")
+
+# Appeler la fonction
+hello()
