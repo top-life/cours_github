@@ -1,0 +1,1 @@
+print(f"salut tout le monde.")
